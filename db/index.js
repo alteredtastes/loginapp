@@ -1,2 +1,2 @@
 exports.insertUser = require('./insertUser');
-exports.getUser = require('./getUser');
+exports.getUserByUsername = require('./getUserByUsername');
